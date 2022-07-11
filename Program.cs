@@ -9,14 +9,18 @@ namespace GameRound
     {
       Console.WriteLine("Enter a number: ");
       string stringYourNumber = Console.ReadLine();
+      
       int yourNumber = int.Parse(stringYourNumber);
 
       for (int number = 0; number <= yourNumber; number ++)
       {
-       Console.WriteLine(number);
+        if (number % 3 == 0)
+        {
+          Console.WriteLine(number.ToString("Ping"));
+        }
+        // Console.WriteLine(number);
       }
     }
   }
 }
-  
   
