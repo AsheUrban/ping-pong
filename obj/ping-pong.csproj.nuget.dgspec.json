@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msash\\Desktop\\ping-pong\\ping-pong.csproj": {}
+    "C:\\Users\\msash\\Desktop\\ping-pong\\Ping-pong.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msash\\Desktop\\ping-pong\\ping-pong.csproj": {
+    "C:\\Users\\msash\\Desktop\\ping-pong\\Ping-pong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msash\\Desktop\\ping-pong\\ping-pong.csproj",
-        "projectName": "ping-pong",
-        "projectPath": "C:\\Users\\msash\\Desktop\\ping-pong\\ping-pong.csproj",
+        "projectUniqueName": "C:\\Users\\msash\\Desktop\\ping-pong\\Ping-pong.csproj",
+        "projectName": "Ping-pong",
+        "projectPath": "C:\\Users\\msash\\Desktop\\ping-pong\\Ping-pong.csproj",
         "packagesPath": "C:\\Users\\msash\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\msash\\Desktop\\ping-pong\\obj\\",
         "projectStyle": "PackageReference",

@@ -3,3 +3,14 @@ C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\ping-pong.GeneratedMSBuildEdit
 C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\ping-pong.AssemblyInfoInputs.cache
 C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\ping-pong.AssemblyInfo.cs
 C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\ping-pong.csproj.CoreCompileInputs.cache
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\Ping-pong.exe
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\Ping-pong.deps.json
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\Ping-pong.runtimeconfig.json
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\Ping-pong.runtimeconfig.dev.json
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\Ping-pong.dll
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\ref\Ping-pong.dll
+C:\Users\msash\Desktop\ping-pong\bin\Debug\net5.0\Ping-pong.pdb
+C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\Ping-pong.dll
+C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\ref\Ping-pong.dll
+C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\Ping-pong.pdb
+C:\Users\msash\Desktop\ping-pong\obj\Debug\net5.0\Ping-pong.genruntimeconfig.cache
