@@ -7,13 +7,14 @@ namespace GameRound
   {
     public static void Main ()
     {
-      // Game first = new GameRound();
-
-      // List<Game> Games = newList<Game>() { first };
-
       Console.WriteLine("Enter a number: ");
       string stringYourNumber = Console.ReadLine();
-      int youNumber = int.Parse(stringYourNumber);
+      int yourNumber = int.Parse(stringYourNumber);
+
+      for (int number = 0; number <= yourNumber; number ++)
+      {
+       Console.WriteLine(number);
+      }
     }
   }
 }
